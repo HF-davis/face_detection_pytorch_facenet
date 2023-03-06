@@ -1,6 +1,6 @@
 /train
 /val
-.app
-.d
-.prueba
-.pytorchFace
+/app.py
+/d.py
+/prueba.ipynb
+/pytorchFace.ipynb
