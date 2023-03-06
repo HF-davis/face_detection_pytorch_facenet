@@ -4,11 +4,17 @@ facenet image recongnition in pytorch
 - Clonar el repositorio
 
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/HF-davis/face_detection_pytorch_facenet.git
 ```
-> git clone https://github.com/HF-davis/face_detection_pytorch_facenet.git
 - Abrir el directorio
-> cd face_detection_pytorch_facenet
+
+```bash
+cd face_detection_pytorch_facenet
+```
+
 - Creamos un directorio con el nombre train, train contendra los rostros de las personas de las cuales se quiere identificar
-> mkdir train
+
+```bash
+mkdir train
+```
 
