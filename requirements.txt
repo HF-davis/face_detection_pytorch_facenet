@@ -1,0 +1,6 @@
+torch==1.11.0
+facenet-pytorch
+torchvision==0.12.0
+pillow==9.2.0
+opencv-python>=4.7.0
+Flask
