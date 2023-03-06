@@ -6,5 +6,5 @@ facenet image recongnition in pytorch
 - Abrir el directorio
 > cd face_detection_pytorch_facenet
 - Creamos un directorio con el nombre train, train contendra los rostros de las personas de las cuales se quiere identificar
-> mkdir train
+<sub>mkdir train</sub>
 
